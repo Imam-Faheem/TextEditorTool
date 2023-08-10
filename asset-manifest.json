@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/TextEditorTool/static/css/main.073c9b0a.css",
-    "main.js": "/TextEditorTool/static/js/main.b2dd1334.js",
+    "main.js": "/TextEditorTool/static/js/main.a0df5615.js",
     "static/js/787.28cb0dcd.chunk.js": "/TextEditorTool/static/js/787.28cb0dcd.chunk.js",
+    "static/media/blackLogo.png": "/TextEditorTool/static/media/blackLogo.c9d3e98ce3d844f4327b.png",
+    "static/media/whiteLogo.png": "/TextEditorTool/static/media/whiteLogo.3668616bcbc319ddfbd5.png",
     "index.html": "/TextEditorTool/index.html",
     "main.073c9b0a.css.map": "/TextEditorTool/static/css/main.073c9b0a.css.map",
-    "main.b2dd1334.js.map": "/TextEditorTool/static/js/main.b2dd1334.js.map",
+    "main.a0df5615.js.map": "/TextEditorTool/static/js/main.a0df5615.js.map",
     "787.28cb0dcd.chunk.js.map": "/TextEditorTool/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b2dd1334.js"
+    "static/js/main.a0df5615.js"
   ]
 }
